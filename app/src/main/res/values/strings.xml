@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MovieCatalogueJetpack</string>
+    <string name="status_app">Loading data\.\.</string>
+
+    <string name="tab_movie">Movies</string>
+    <string name="tab_tv">TV Show</string>
+    <string name="tab_favorite">Favorite</string>
+
+    <string name="tv_CVInfo">Details</string>
+    <string name="tv_durasi">Runtime</string>
+    <string name="tv_genre">Genre</string>
+    <string name="tv_relase">Release</string>
+    <string name="tv_firstair">First Air</string>
+    <string name="tv_tahunMovie">Year</string>
+    <string name="tv_numberseasons">Number Seasons</string>
+    <string name="tv_point">Rating</string>
+
+    <string name="iv_poster">Poster Movie</string>
+    <string name="tv_overview">Overview</string>
+
+    <string name="hour">hour</string>
+    <string name="min">minutes</string>
+
+</resources>
